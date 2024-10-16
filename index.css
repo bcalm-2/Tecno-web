@@ -2,3 +2,10 @@
   height: 80vh;
   width: 100%;
 }
+body h1 {
+  font-family: "Dancing Script", cursive;
+}
+.aboutDefine {
+  font-weight: 800;
+  padding: 20;
+}
